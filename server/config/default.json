@@ -1,0 +1,4 @@
+{
+    "serverPort": 5000,
+    "dbUrl": "mongodb+srv://Insar:Insi516!@cluster0.a9ajlsw.mongodb.net/?retryWrites=true&w=majority"
+}
